@@ -20,7 +20,7 @@ function Navbar() {
     <nav className={`navbar${open ? ' menu-open' : ''}`}>
       <div className="navbar__logo">
         <NavLink to="/" className="navbar__logo-link">
-          <img src="/images/logo.png" alt="Store28 Logo" className="navbar__logo-img" />
+          <img src="/images/logo2.jpeg" alt="Store28 Logo" className="navbar__logo-img" />
           <span>Store28</span>
         </NavLink>
       </div>
